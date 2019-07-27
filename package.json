@@ -57,7 +57,7 @@
     "file-loader": "^0.8.5",
     "form-data": "^1.0.0-rc3",
     "image-webpack-loader": "^1.6.2",
-    "istanbul": "^v1.0.0-alpha",
+    "istanbul": "^v1.0.0-alpha.2",
     "json-loader": "^0.5.4",
     "mocha": "^2.4.5",
     "mongodb": "^2.1.4",
